@@ -4,7 +4,7 @@ metadata:
   name: client-deployment
 spec:
   replicas: 3
-  selectors:
+  selector:
     matchLabels:
       component: web
   template:
