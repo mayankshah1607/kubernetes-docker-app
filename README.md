@@ -1,7 +1,7 @@
 # Kubernetes, Docker and GCP
 [![Build Status](https://travis-ci.org/mayankshah1607/kubernetes-docker-app.svg?branch=master)](https://travis-ci.org/mayankshah1607/kubernetes-docker-app)
 
-:whale: A very simple application that uses Kubernetes and Docker containers. This is my first project on K8s and (Google cloud platform)[https://cloud.google.com/]
+:whale: A very simple application that uses Kubernetes and Docker containers. This is my first project on K8s and [Google cloud platform](https://cloud.google.com/)
 
 ## Application Architecture
 
