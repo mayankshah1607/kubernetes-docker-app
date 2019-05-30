@@ -21,3 +21,14 @@
 * To edit the NodeJS code, open `/worker`
 * To change deployment condifuration, edit `/k8s/worker-deployment.yml`
 * To change the service configuration (ClusterIP), edit `/k8s/worker-cluster-ip-service.yml`
+
+## Redis database
+* To change redis deployment configuration, edit `k8s/redis-deployment.yml`
+* To change redis service configuration, edit `k8s/redis-cluster-ip-service.yml`
+
+## Postgres (Persistent Volume Claim)
+* To change postgres deployment configuration, edit `k8s/postgres-deployment.yml`
+* To change postgres service configuration, edit `k8s/postgres-cluster-ip-service.yml`
+
+## Load Balancer (ingress-nginx)
+* To change the load balancer configuration, edit `k8s/ingress-service.yml`
